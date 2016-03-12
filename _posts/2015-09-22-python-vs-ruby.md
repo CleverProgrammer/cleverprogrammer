@@ -4,7 +4,7 @@ title: Python Vs. Ruby
 subtitle: Differences between Python and Ruby
 categories: []
 tags: []
-published: True
+published: False
 
 ---
 #For loops
