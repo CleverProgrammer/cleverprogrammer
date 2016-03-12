@@ -5,6 +5,8 @@ categories: [Tutorial, Coursera]
 tags: [Tutorial, Programming, Guide, Walkthrough, Coursera]
 published: True
 author: Rafeh Qazi
+permalink: "How-to-Finish-An-Online-Programming-Course"
+header-img: "img/binary_dark.jpg"
 comments: True
 
 ---
