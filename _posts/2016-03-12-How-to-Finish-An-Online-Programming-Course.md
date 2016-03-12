@@ -27,7 +27,7 @@ The is meant to be a multi-purpose blog and one of my goals is to help people th
 
 I promise the future videos are gonna get much more entertaining and energetic! I try to teach in small bite-sized nuggets by teaching each concept exclusively and then and only then helping you put together the entire thing. This way you have all the tools you need to do the job and you have a working knowledge of each tool separately. One advantage you will have learning these programming concepts from me is that I will be usually posting them up here as I learn them. You will be learning from a perspective very relevant to yours. Relavance is the single most important factor involved in learning and retaining information for a longer period of time. Think about trying to memorize a license plate versus that hilarious joke your friend just told you the other day. Which one is easier to remember? Which one is more relevant to you?
 
-Feel free to reach out to me by clicking my CONTACT tab and ask me for any help and I will happily correspond with you via e-mail or in the comments section below. 
+Feel free to reach out to me by clicking my [CONTACT](http://qazipython.github.io/data-science/contact/) tab and ask me for any help and I will happily correspond with you via e-mail or in the comments section below. 
 
 <div id="disqus_thread"></div>
 <script>
