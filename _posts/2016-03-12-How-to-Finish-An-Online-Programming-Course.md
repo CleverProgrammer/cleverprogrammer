@@ -11,7 +11,6 @@ comments: True
 
 ---
 {% include share.js %}
-hello
 
 # How to Finish An Online Programming Course?
 ![FOCUS](http://relateinstitute.com/wp-content/uploads/2014/12/house.jpg)
