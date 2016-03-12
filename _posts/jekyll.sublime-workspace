@@ -31,7 +31,7 @@
 			"file": "2015-09-22-python-vs-ruby.md",
 			"settings":
 			{
-				"buffer_size": 468,
+				"buffer_size": 467,
 				"line_ending": "Unix"
 			}
 		},
@@ -55,7 +55,7 @@
 			"file": "/Users/ChessTastic/Dropbox/github/websites/data-science/_site/index.html",
 			"settings":
 			{
-				"buffer_size": 8405,
+				"buffer_size": 8614,
 				"line_ending": "Unix"
 			}
 		},
@@ -228,7 +228,8 @@
 	"expanded_folders":
 	[
 		"/Users/ChessTastic/Dropbox/github/websites/data-science",
-		"/Users/ChessTastic/Dropbox/github/websites/data-science/_site"
+		"/Users/ChessTastic/Dropbox/github/websites/data-science/_site",
+		"/Users/ChessTastic/Dropbox/github/websites/data-science/_site/css"
 	],
 	"file_history":
 	[
@@ -335,15 +336,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 468,
+						"buffer_size": 467,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								254,
-								254
+								279,
+								279
 							]
 						],
 						"settings":
@@ -422,7 +423,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 8405,
+						"buffer_size": 8614,
 						"regions":
 						{
 						},
@@ -587,7 +588,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 144.0,
+	"side_bar_width": 459.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coursera Week 4- Lessons To Learn From Probability
+title: Coursera - Principles of Computing Part 1: Lessons To Learn From Probability
 subtitle:   "How can we use probability to better understand the world around us?"
 categories: [Coursera]
 tags: [Probability]
@@ -84,6 +84,7 @@ print(num_permutations / factorial(n))  # Combinations
 
 ###Now let's look at some tangible examples: <br>
 Say we are playing a lottery and we can draw 6 numbers from a range 0...59. Here is how we will be able to figure out all the possible `enumerations`, `permutations`, and `combinations`: <br>
+
 {%highlight python3%}
 num_permutations = 1
 for number in range(59, 59-6, -1):
