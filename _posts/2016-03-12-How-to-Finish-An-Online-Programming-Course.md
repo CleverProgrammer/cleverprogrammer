@@ -10,8 +10,6 @@ header-img: "img/binary_dark.jpg"
 comments: True
 
 ---
-{% include share.js %}
-
 # How to Finish An Online Programming Course?
 ![FOCUS](http://relateinstitute.com/wp-content/uploads/2014/12/house.jpg)
 
@@ -36,6 +34,5 @@ I promise the future videos are gonna get much more entertaining and energetic! 
 - Learn each concept involved exclusively and try to get comfortable with it by doing many practice exercises 
 - Finally, once you have all the concepts down pat exclusively, take a shot at the big project
 
-Feel free to reach out to me by clicking my [CONTACT](http://qazipython.github.io/data-science/contact/) tab and ask me for any help and I will happily correspond with you via e-mail or in the comments section below. 
 
-{% include disqus.js %}
+{% include twitter_plug.html %}
