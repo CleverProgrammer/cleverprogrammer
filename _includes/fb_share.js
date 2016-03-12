@@ -9,4 +9,4 @@
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-<div class="fb-share-button" data-href="{{site.url}}{{page.url}}" data-layout="button_count" style="position: relative; top: -8px; left: 33px;"></div>
+<div class="fb-share-button" data-href="https://qazipython.github.io/data-science{{page.url}}" data-layout="button_count" style="position: relative; top: -8px; left: 33px;"></div>
