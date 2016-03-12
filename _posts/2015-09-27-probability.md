@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coursera - Principles of Computing Part 1: Lessons To Learn From Probability
+title: "Coursera - Principles of Computing Part 1: Lessons To Learn From Probability"
 subtitle:   "How can we use probability to better understand the world around us?"
 categories: [Coursera]
 tags: [Probability]
