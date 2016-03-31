@@ -11,7 +11,7 @@ facebook_username:  ChessTastic
 
 # Build settings
 markdown: kramdown
-highlighter: rogue
+highlighter: rouge
 permalink: pretty
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","vendor"]
