@@ -3,7 +3,7 @@ title: Rafeh Qazi
 header-img: img/home-bg.jpg
 email: rafehqazi1@gmail.com
 description: "A Software Developer who likes double tall white mocha from Starbucks almost as much as he likes code."
-baseurl: ""
+baseurl: "http://cleverprogrammer.com"
 url: ""
 twitter_username: RafehQ
 github_username:  QaziPython
@@ -11,7 +11,7 @@ facebook_username:  ChessTastic
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rogue
 permalink: pretty
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","vendor"]
