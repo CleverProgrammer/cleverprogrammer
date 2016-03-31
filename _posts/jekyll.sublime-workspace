@@ -28,18 +28,83 @@
 	"buffers":
 	[
 		{
-			"file": "2015-09-22-python-vs-ruby.md",
+			"file": "/Users/ChessTastic/Dropbox/github/websites/data-science/_includes/comments.html",
 			"settings":
 			{
-				"buffer_size": 467,
+				"buffer_size": 979,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "2015-08-15-a-split-test-analysis.md",
+			"file": "2016-03-12-How-to-Finish-An-Online-Programming-Course.md",
 			"settings":
 			{
-				"buffer_size": 6064,
+				"buffer_size": 4980,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ChessTastic/Dropbox/github/websites/data-science/_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 201,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ChessTastic/Dropbox/github/websites/data-science/_layouts/post.html",
+			"settings":
+			{
+				"buffer_size": 1933,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ChessTastic/Dropbox/github/websites/data-science/_includes/twitter_plug.html",
+			"settings":
+			{
+				"buffer_size": 405,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ChessTastic/Dropbox/github/websites/data-science/_includes/alert_msg.js",
+			"settings":
+			{
+				"buffer_size": 21,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ChessTastic/Dropbox/github/websites/data-science/_includes/google_analytics.html",
+			"settings":
+			{
+				"buffer_size": 408,
+				"line_ending": "Unix",
+				"name": "<script>"
+			}
+		},
+		{
+			"file": "/Users/ChessTastic/Dropbox/github/websites/data-science/_includes/footer.html",
+			"settings":
+			{
+				"buffer_size": 2623,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "2015-09-22-python-vs-ruby.md",
+			"settings":
+			{
+				"buffer_size": 468,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ChessTastic/Dropbox/github/websites/data-science/mail/contact_me.php",
+			"settings":
+			{
+				"buffer_size": 1093,
 				"line_ending": "Unix"
 			}
 		},
@@ -47,23 +112,15 @@
 			"file": "/Users/ChessTastic/Dropbox/github/websites/data-science/_config.yml",
 			"settings":
 			{
-				"buffer_size": 462,
+				"buffer_size": 695,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/ChessTastic/Dropbox/github/websites/data-science/_site/index.html",
+			"file": "/Users/ChessTastic/Dropbox/github/websites/data-science/about.html",
 			"settings":
 			{
-				"buffer_size": 8614,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/ChessTastic/Library/Application Support/Sublime Text 3/Packages/User/markdownhighlight.sublime-snippet",
-			"settings":
-			{
-				"buffer_size": 313,
+				"buffer_size": 291,
 				"line_ending": "Unix"
 			}
 		}
@@ -228,12 +285,29 @@
 	"expanded_folders":
 	[
 		"/Users/ChessTastic/Dropbox/github/websites/data-science",
-		"/Users/ChessTastic/Dropbox/github/websites/data-science/_site",
-		"/Users/ChessTastic/Dropbox/github/websites/data-science/_site/css"
+		"/Users/ChessTastic/Dropbox/github/websites/data-science/_includes",
+		"/Users/ChessTastic/Dropbox/github/websites/data-science/_layouts",
+		"/Users/ChessTastic/Dropbox/github/websites/data-science/_posts"
 	],
 	"file_history":
 	[
+		"/Users/ChessTastic/Dropbox/github/websites/data-science/_posts/2015-10-12-cats.md",
+		"/Users/ChessTastic/Dropbox/github/websites/data-science/_includes/google_share.js",
+		"/Users/ChessTastic/Dropbox/github/websites/data-science/_includes/twitter_share.js",
+		"/Users/ChessTastic/Dropbox/github/websites/data-science/_layouts/default.html",
+		"/Users/ChessTastic/Dropbox/github/websites/data-science/_includes/fb_share.js",
+		"/Users/ChessTastic/Dropbox/github/websites/data-science/_includes/share.js",
+		"/Users/ChessTastic/Dropbox/github/websites/data-science/_posts/2015-09-27-probability.md",
+		"/Users/ChessTastic/Dropbox/github/websites/data-science/_posts/twitter_plug.html",
+		"/Users/ChessTastic/Dropbox/github/websites/data-science/_posts/twitter_share.js",
+		"/Users/ChessTastic/Dropbox/github/websites/data-science/_posts/2016-03-12-How-to-Finish-An-Online-Programming-Course.md",
+		"/Users/ChessTastic/Dropbox/github/websites/data-science/_posts/2015-10-09-chess.md",
+		"/Users/ChessTastic/Dropbox/github/websites/data-science/about.html",
+		"/Users/ChessTastic/Dropbox/github/websites/data-science/_site/index.html",
+		"/Users/ChessTastic/Dropbox/github/websites/data-science/_posts/2015-08-15-a-split-test-analysis.md",
+		"/Users/ChessTastic/Dropbox/github/websites/data-science/_posts/2015-09-22-python-vs-ruby.md",
 		"/Users/ChessTastic/Dropbox/github/websites/data-science/index.html",
+		"/Users/ChessTastic/Library/Application Support/Sublime Text 3/Packages/User/markdownhighlight.sublime-snippet",
 		"/Users/ChessTastic/Library/Application Support/Sublime Text 3/Packages/User/sbc-setting.sublime-settings",
 		"/Users/ChessTastic/Library/Application Support/Sublime Text 3/Packages/Better Completion/sbc-setting.sublime-settings",
 		"/Users/ChessTastic/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
@@ -246,7 +320,6 @@
 		"/Users/ChessTastic/Library/Application Support/Sublime Text 3/Packages/User/SublimeTmpl.sublime-settings",
 		"/Users/ChessTastic/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/Users/ChessTastic/Library/Application Support/Sublime Text 3/Packages/SublimeTmpl/SublimeTmpl.sublime-settings",
-		"/Users/ChessTastic/Dropbox/github/websites/data-science/_posts/2015-08-15-a-split-test-analysis.md",
 		"/Users/ChessTastic/Library/Application Support/Sublime Text 3/Packages/User/Jekyll.sublime-settings",
 		"/Users/ChessTastic/Dropbox/github/websites/data-science/_config.yml",
 		"/Users/ChessTastic/Dropbox/github/websites/data-science/_posts/2014-08-24-science-has-not-yet-mastered-prophecy.markdown",
@@ -327,30 +400,85 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "2015-09-22-python-vs-ruby.md",
+					"file": "/Users/ChessTastic/Dropbox/github/websites/data-science/_includes/comments.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 467,
+						"buffer_size": 979,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								279,
-								279
+								979,
+								979
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Jekyll/Syntaxes/Markdown (Jekyll).tmLanguage",
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "2016-03-12-How-to-Finish-An-Online-Programming-Course.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4980,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4947,
+								4947
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jekyll/Syntaxes/Markdown (Jekyll).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/ChessTastic/Dropbox/github/websites/data-science/_layouts/default.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 201,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								33,
+								33
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -360,78 +488,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "2015-08-15-a-split-test-analysis.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6064,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1431,
-								1431
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Jekyll/Syntaxes/Markdown (Jekyll).tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 828.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/Users/ChessTastic/Dropbox/github/websites/data-science/_config.yml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 462,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								239,
-								239
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/YAML/YAML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
 					"buffer": 3,
-					"file": "/Users/ChessTastic/Dropbox/github/websites/data-science/_site/index.html",
+					"file": "/Users/ChessTastic/Dropbox/github/websites/data-science/_layouts/post.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 8614,
+						"buffer_size": 1933,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								3,
+								3
 							]
 						],
 						"settings":
@@ -444,36 +514,236 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
 					"buffer": 4,
-					"file": "/Users/ChessTastic/Library/Application Support/Sublime Text 3/Packages/User/markdownhighlight.sublime-snippet",
+					"file": "/Users/ChessTastic/Dropbox/github/websites/data-science/_includes/twitter_plug.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 313,
+						"buffer_size": 405,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								70,
-								70
+								375,
+								375
 							]
 						],
 						"settings":
 						{
-							"default_extension": "sublime-snippet",
-							"syntax": "Packages/XML/XML.tmLanguage"
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/ChessTastic/Dropbox/github/websites/data-science/_includes/alert_msg.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21,
+								21
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/ChessTastic/Dropbox/github/websites/data-science/_includes/google_analytics.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 408,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								408,
+								408
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<script>",
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/ChessTastic/Dropbox/github/websites/data-science/_includes/footer.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2623,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1023,
+								938
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "2015-09-22-python-vs-ruby.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 468,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								126,
+								126
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jekyll/Syntaxes/Markdown (Jekyll).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/ChessTastic/Dropbox/github/websites/data-science/mail/contact_me.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1093,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								470,
+								470
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/Users/ChessTastic/Dropbox/github/websites/data-science/_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 695,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								667,
+								667
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/Users/ChessTastic/Dropbox/github/websites/data-science/about.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 291,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								103,
+								66
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
 					"type": "text"
 				}
 			]
@@ -588,7 +858,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 459.0,
+	"side_bar_width": 168.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
