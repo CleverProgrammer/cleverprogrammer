@@ -26,3 +26,7 @@ analytics :
       tracking_id : 'UA-74996552-1'
   getclicky :
     site_id :
+
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"

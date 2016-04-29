@@ -38,3 +38,8 @@ Now let's get to the part that you are all here for! *[The median salary of a co
 You will only make money when you can solve other people's problems and help them achieve their dreams. That is effectively what a job actually is by definition. An entrepreneur who starts his own business is also simply trying to help others reach their goals and in turn those others help the entrepreneur reach his or her goal of financial freedom. Since computer programming has problem solving as one of its main reasons for existing, you can imagine that you will be extremely valuable to many people. You will be an asset that they could bring on board in order to help them digitize their million dollar idea. They will be more than happy to pay you a healthy chunk of money when you help them implement their ideas and turn them into a reality.
 
 As long as there exist people, there will exist problems. As long as there exist problems, there will exist the need for creating solutions. In lieu of that, computer programming will remain relevant indefinitely as it is one of the strongest tools we have currently for problem solving and helping people get what they want.
+
+So... What are you waiting for?
+
+# SIGNUP ON CODECADEMY.COM AND START LEARNING TODAY!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2dmBp5RydwE" frameborder="0" allowfullscreen></iframe>
