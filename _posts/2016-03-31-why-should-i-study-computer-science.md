@@ -43,3 +43,5 @@ So... What are you waiting for?
 
 # SIGNUP ON CODECADEMY.COM AND START LEARNING TODAY!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2dmBp5RydwE" frameborder="0" allowfullscreen></iframe>
+
+{% include twitter_plug.html %}
