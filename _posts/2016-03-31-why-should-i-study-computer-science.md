@@ -5,12 +5,14 @@ subtitle: How Learning to Program Can Change Your Life
 categories: [programming]
 tags: [programming, computer science, coding]
 published: True
-permalink: why-should-I-study-computer-science
+permalink: "why-should-I-study-computer-science"
+header-img: "img/binary_dark.jpg"
 author: Rafeh Qazi
-comments: true
----
+comments: True
 
+---
 # Why Should I Study Computer Programming?
+<img src="http://initiontechnology.com/wp-content/uploads/2015/10/Mobile_Apps.jpg" width="400" height="400" align="middle"/>
 
 I want to cover this quite differently from how most other people might answer this question because I want to emphasize that money should not be your focus when decided careers. I mean don't get me wrong, money is important, but what is even more important is what you actually are able to do for yourself and for others when you decide your career. There are a million and two reasons why you should study computer programming but let's break it down into four simple ones.
 
