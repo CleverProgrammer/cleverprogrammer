@@ -5,7 +5,7 @@ subtitle: String formatting, datetime module, boolean algebra, and much more!
 categories: [programming, codecademy, python, tutorial]
 tags: [programming, computer science, coding, python, codecademy, tutorial, walkthrough, part2]
 published: True
-permalink: codecademy-python-walkthrough-tutorial-part-2
+permalink: codecademy-python-tutorial-2
 author: Rafeh Qazi
 comments: true
 ---

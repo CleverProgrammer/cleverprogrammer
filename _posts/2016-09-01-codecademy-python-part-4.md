@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Codecademy Python: Part 3"
-subtitle: Pyglatin and some other beautiful tangents
+title: "Codecademy Python: Part 4"
+subtitle: Pyglatin, string slicing, string concatenation, handling user input, and much more!
 categories: [programming, codecademy, python, tutorial]
-tags: [programming, computer science, coding, python, codecademy, tutorial, walkthrough, part3]
+tags: [programming, computer science, coding, python, codecademy, tutorial, walkthrough, part4]
 published: True
-permalink: codecademy-python-tutorial-3
+permalink: codecademy-python-tutorial-4
 author: Rafeh Qazi
 comments: true
 ---
 
-# Codecademy Python: Part 3
-This is part 3 of the Codecademy Python Walkthrough Tutorial. This video covers conditional statement syntax, boolean algebra, control flow, functions, if elif else statements, and much more!
-<iframe width="420" height="315" src="https://www.youtube.com/embed/957sccX2HGA" frameborder="0" allowfullscreen></iframe>
+# Codecademy Python: Part 4
+This is part 4 of the Codecademy python walkthrough tutorial. It covers the Pyglatin section and some specific topics like string slicing, string concatenation, and handling user input. Great job for making it this far. Keep on trudging through it soldier!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/90qeRej1-CY" frameborder="0" allowfullscreen></iframe>
 
 ## ABOUT PYTHON CODECADEMY SERIES
 This is meant to guide you through the codecademy python part and it also to help you get a much better understanding of the code that you to write according to the instructions on CodeCademy.com. This will help you understand many programming concepts and the concepts that are tricky, I open up an interactive prompt and I will also ask you questions along the way to keep it more interactive for you. I believe teaching only works when you actively engage. 
